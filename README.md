@@ -1,6 +1,8 @@
 OUTPUT SCREESHOTS :
 
-<img width="1919" height="1073" alt="Screenshot 2025-10-15 171119" src="https://github.com/user-attachments/assets/a01d2f7c-74e8-496f-b0e7-b51f5b7e214c" />
+<img width="1896" height="952" alt="image" src="https://github.com/user-attachments/assets/a3a9e260-e74a-4015-95c6-0b9097318480" />
+
+<img width="1919" height="1065" alt="image" src="https://github.com/user-attachments/assets/13637f18-6121-4fa3-9a87-e75e534746dc" />
 
 
 <img width="1919" height="1076" alt="Screenshot 2025-10-15 171316" src="https://github.com/user-attachments/assets/0ee6b54e-f9c2-4e73-9cec-9b6b17bd132a" />
